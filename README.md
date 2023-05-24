@@ -40,4 +40,11 @@ pip install rembg[gpu]
 ```
 
 ### **Examples of processed images**
+#### **Original photo**
 ![Original photo](https://github.com/ValeryKorobov/img_cut/raw/main/input_pics/5.jpg)
+
+#### **Edited photo**
+![Edited photo](https://github.com/ValeryKorobov/img_cut/raw/main/output_pics/5_output.png)
+
+### **Author**
+[Korobov Valery](https://github.com/ValeryKorobov) - Python-developer
