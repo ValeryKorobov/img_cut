@@ -4,7 +4,7 @@
 With this script, you can upload any amount of pictures or photos and quickly cut out the object by removing the background.
 
 ### **Technology stack:**
-| программа                     | версия |
+| program                     | version |
 |-------------------------------|--------|
 | [rembg](https://github.com/danielgatis/rembg)                       | 2.0.37 |
 | [Pillow](https://python-scripts.com/pillow)                       | 9.5.0 |
