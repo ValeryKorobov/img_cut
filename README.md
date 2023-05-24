@@ -1,4 +1,4 @@
-# Script to remove background
+# Script to remove the background from an image
 
 ### **Description**
 With this script, you can upload any amount of pictures or photos and quickly cut out the object by removing the background.
